@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lcz_ssm_service" />
+        <module name="lcz_ssm_dao" />
+        <module name="lcz_ssm_utils" />
+        <module name="lcz_ssm_web" />
+        <module name="lcz_ssm_domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springSecurityTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

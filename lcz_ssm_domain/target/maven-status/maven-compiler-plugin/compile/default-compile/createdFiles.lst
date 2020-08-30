@@ -1,0 +1,8 @@
+com\lcz\ssm\domain\Member.class
+com\lcz\ssm\domain\Orders.class
+com\lcz\ssm\domain\Role.class
+com\lcz\ssm\domain\SysLog.class
+com\lcz\ssm\domain\Product.class
+com\lcz\ssm\domain\Pemission.class
+com\lcz\ssm\domain\Traveller.class
+com\lcz\ssm\domain\UserInfo.class
